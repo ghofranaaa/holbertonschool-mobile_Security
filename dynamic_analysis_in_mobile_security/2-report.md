@@ -83,5 +83,5 @@ emulator detection, etc.)*
 
 ## Flag
 ```
-(pending correct APK)
+Holberton{keystore_is_not_as_safe_as_u_think!}
 ```
